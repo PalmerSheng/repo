@@ -1,3 +1,2 @@
 #!/bin/bash
-ls
-echo "hello2" 
+echo "hello" 
