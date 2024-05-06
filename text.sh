@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "hello" > my.txt
-
+echo "hello" 
