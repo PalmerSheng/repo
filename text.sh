@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "hello" 
+git pull
+git add .
+git commit -m "1"
+git push
+echo "push finish" 
